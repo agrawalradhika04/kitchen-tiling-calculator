@@ -1,8 +1,3 @@
-//
-//Radhika Agrawal
-//CS110 - HW2 titled 'Tiling the Kitchen'
-//
-
 #include <iostream>
 #include <cmath>
 #include <cassert>
